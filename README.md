@@ -1,5 +1,5 @@
 ﻿#maze_generator
-''' Script that creates mazes of a given size based on the parameter 's.' To generate a 2D maze, navigate to the directory in your computer's terminal and call the command 'python maze_generator.py <s>'.  '''
+Script that creates mazes of a given size based on the parameter 's.' To generate a 2D maze, navigate to the directory in your computer's terminal and call the command 'python maze_generator.py <s>'.
 
 Samples of various generated mazes:
 ![maze1](https://github.com/dylan-jacobs/maze-generator/assets/78403395/6ea5f92d-14ca-4455-83af-397906e321ec)
