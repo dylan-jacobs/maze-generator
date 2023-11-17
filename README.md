@@ -8,8 +8,6 @@ Samples of various generated mazes:
 ![maze4](https://github.com/dylan-jacobs/maze-generator/assets/78403395/0ab7d9b6-89c5-4254-82ec-d7d44967f6bd)
 
 
-
-
 The maze generation process:
 ![image](https://github.com/dylan-jacobs/maze-generator/assets/78403395/00246c7f-4a8c-4066-90b8-222e9a184cb5)
 
