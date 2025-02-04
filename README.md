@@ -1,6 +1,5 @@
 ﻿#maze_generator
-This script creates mazes of a given size (defined by the parameter "s.") To generate a 2D maze, navigate to the directory in your terminal and call the command "python maze_generator.py <s>."
-The script "txt_to_3d.py" transforms the output text files of maze_generator.py into 3D files.
+This script creates mazes of a given size (defined by the parameter "s.") To generate a 2D maze, navigate to the directory in your terminal and call the command "python maze_generator.py <s>." The script "txt_to_3d.py" transforms the output text files of maze_generator.py into 3D files.
 
 Samples of various generated mazes:
 ![maze1](https://github.com/dylan-jacobs/maze-generator/assets/78403395/6ea5f92d-14ca-4455-83af-397906e321ec)
